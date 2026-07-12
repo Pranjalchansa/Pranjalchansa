@@ -1,181 +1,174 @@
-<h1 align="center">Hi 👋, I'm Pranjal Chansauriya</h1>
-
-<h3 align="center">
-Java Backend Developer • Spring Boot Developer • AI/ML Enthusiast
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Pranjal+Chansauriya;Java+Backend+Developer;Spring+Boot+Enthusiast;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=240&section=header&text=Pranjal%20Chansauriya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Backend%20Systems%20%7C%20Crafting%20Modern%20Web%20Applications&descAlignY=55"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🎓 B.Tech CSE Student
+```java
+public class Pranjal {
 
-💻 Passionate about Backend Development & AI
+    String role = "Java Backend Developer";
 
-🌱 Currently Learning **Spring Boot, Microservices & System Design**
+    String[] interests = {
+        "Spring Boot",
+        "REST APIs",
+        "AI & Machine Learning",
+        "System Design",
+        "Full Stack Development"
+    };
 
-⚡ Solved DSA Problems on LeetCode
+    String currentFocus = "Building scalable backend applications.";
 
-❤️ Love Building Modern Web Applications
+    String motto = "Learn • Build • Improve • Repeat 🚀";
+}
+```
 
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,mongodb"/>
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,flask"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea"/>
-</p>
+- 🎓 B.Tech CSE Student
+- ☕ Passionate Java & Spring Boot Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Currently learning **Microservices, Docker & System Design**
+- 💡 Love solving DSA problems and building real-world projects
 
 ---
 
-# 📌 Featured Projects
-
-## 🛒 E-Commerce Backend
-
-✔ Spring Boot
-
-✔ Spring Security
-
-✔ JWT Authentication
-
-✔ MySQL
-
-✔ REST APIs
-
----
-
-## 🩺 Cura AI
-
-AI-powered Healthcare Assistant with Disease Prediction and Smart Chat Support.
-
-Tech Stack
-
-Flask • TensorFlow • HTML • CSS • JavaScript
-
----
-
-## 📐 Math Gear
-
-Modern Mathematics Toolkit built using Python & Kivy.
-
-Supports:
-
-✔ Equation Solver
-
-✔ Unit Converter
-
-✔ Scientific Calculator
-
-✔ Unicode Math
-
----
-
-## 🦟 Malaria Detection
-
-Deep Learning project for malaria detection using medical images.
-
-TensorFlow • CNN • Python
-
----
-
-## 🌐 Portfolio Website
-
-Modern Responsive Portfolio with smooth animations.
-
-HTML • CSS • JavaScript
-
-Live Demo
-
-https://pranjalchansauriya-protfolio.vercel.app/
-
----
-
-# 📈 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranjalchansa&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalchansa&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,nodejs,html,css,js,mysql,mongodb,git,github,docker,vscode,idea,postman,tensorflow,flask"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 Featured Projects
+
+### 🛒 E-Commerce Backend
+
+> Spring Boot • Spring Security • JWT • REST APIs • MySQL
+
+A scalable backend for an e-commerce platform featuring authentication, product management, cart, orders, and secure REST APIs.
+
+---
+
+### 🩺 Cura AI
+
+> Flask • TensorFlow • Machine Learning
+
+An AI-powered healthcare assistant capable of disease prediction and intelligent health guidance.
+
+---
+
+### 📐 Math Gear
+
+> Python • Kivy • Unicode Mathematics
+
+A mathematics toolkit featuring equation solving, scientific calculations, unit conversion, and more.
+
+---
+
+### 🦟 Malaria Detection
+
+> Deep Learning • CNN • TensorFlow
+
+Medical image classification model for malaria detection using deep learning.
+
+---
+
+### 🌐 Portfolio Website
+
+> HTML • CSS • JavaScript
+
+Modern responsive developer portfolio with smooth animations and dark UI.
+
+🔗 **Live:** https://pranjalchansauriya-protfolio.vercel.app/
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pranjalchansa&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranjalchansa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalchansa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranjalchansa&theme=tokyonight&margin-w=15"/>
+<img src="https://streak-stats.demolab.com?user=Pranjalchansa&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjalchansa&theme=tokyo-night"/>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjalchansa&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pranjalchansa&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="https://pranjalchansauriya-protfolio.vercel.app/">
-Portfolio
+<a href="https://pranjalchansauriya-protfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-|
-
-<a href="https://linkedin.com/in/YOUR-LINK">
-LinkedIn
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-|
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<a href="mailto:YOURMAIL@gmail.com">
-Email
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+# 💭 Developer Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Pranjalchansa&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Pranjalchansa&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
 
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F172A&height=120&section=footer"/>
+
+</p>
