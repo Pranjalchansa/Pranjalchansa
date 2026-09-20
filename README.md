@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Pranjal Chansauriya banner" width="100%" />
+<img src="./banner_1189x342.png" alt="Pranjal Chansauriya banner" width="100%" />
 
 <br/>
 
